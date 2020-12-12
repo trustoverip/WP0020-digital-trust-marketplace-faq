@@ -11,19 +11,20 @@
 # LIMITATIONS UNDER THE LICENSE.
 
 # Project information
-site_name: Trust over IP – General Template
-site_url: https://trustoverip.github.io/mkdocs-material/
-site_author: Trust over IP Foundation
+site_name: WP0020: Digital Marketplace FAQ
+site_url: https://github.com/trustoverip/WP0020-digital-trust-marketplace-faq
+site_author: Trust Over IP Ecosystem Foundry WG
 site_description: >-
-  Trust over IP Foundation template for general documentation
-  and technical specification using Material for MkDocs
+  Trust over IP Foundation template for White Paper devoted for Frequently Asked Questions 
+  related to the digital trust marketplace
 
 # Repository information
-repo_name: trustoverip/mkdocs-material
-repo_url: https://github.com/trustoverip/mkdocs-material
+repo_name: trustoverip/WP0020-digital-trust-marketplace-faq
+repo_url: https://github.com/trustoverip/WP0020-digital-trust-marketplace-faq
 
 # Content Generator Settings
 docs_dir: 'docs'
+// TODO - Is there any information about where the static HTML pages will be generated?
 site_dir: 'html'
 
 # Copyright information
@@ -98,7 +99,7 @@ markdown_extensions:
 
 # Additional content
 extra:
-  title: 'XX0000: Deliverable Name'
+  title: 'WP0020: Digital Marketplace FAQ'
   lf_url: https://www.linuxfoundation.org/projects
   toip_url: https://trustoverip.org/
   social:
