@@ -5,8 +5,8 @@
 - Since: YYYY-MM-DD (date you submit your PR)
 - Status Note: (explanation of current status)  
 - Supersedes: (link to anything this ToIP Deliverable  supersedes)
-- Start Date: YYYY-MM-DD (date you started working on this idea)
-- Tags: (see [Tag Options](https://trustoverip.github.io/deliverables/process/tags)
+- Start Date: 2020-12-12 (date you started working on this idea)
+- Tags: (see [Tag Options](https://trustoverip.github.io/deliverables/process/tags))
 
 ## Summary
 
