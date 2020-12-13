@@ -24,7 +24,7 @@ repo_url: https://github.com/trustoverip/WP0020-digital-trust-marketplace-faq
 
 # Content Generator Settings
 docs_dir: 'docs'
-// TODO - Is there any information about where the static HTML pages will be generated?
+# TODO - Is there any information about where the static HTML pages will be generated?
 site_dir: 'https://trustoverip.github.io/deliverables/results/proposed/digital-trust-marketplace-faq'
 
 # Copyright information
