@@ -6,7 +6,7 @@
 - Status Note: (explanation of current status)  
 - Supersedes: (link to anything this ToIP Deliverable  supersedes)
 - Start Date: 2020-12-12 (date you started working on this idea)
-- Tags: (see [Tag Options](https://trustoverip.github.io/deliverables/process/tags))
+- Tags: #whitepaper, #efwg
 
 ## Summary
 

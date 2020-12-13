@@ -38,7 +38,7 @@
 # Repo Instance Specific
 REPO_NAME ?= WP0020: Digital Marketplace FAQ
 UPSTREAM_REPO ?= https://github.com/trustoverip/WP0020-digital-trust-marketplace-faq.git
-// TODO check if port 7500 will work as local test server
+# TODO check if port 7500 will work as local test server
 DEV_SITE_PORT ?= 7500
 
 # Template Repo Defaults
