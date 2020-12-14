@@ -10,10 +10,8 @@
 
 ## Summary
 
-```
-One paragraph explanation of the objective of the subject ToIP deliverable.
-DELETE THIS COMMENT
-```
+Our goal is to drive adoption of a new model for digital trust that is every bit as interoperable as the physical wallets and paper or plastic credentials that we use every day—to do everything from getting on a plane to entering a hospital to signing a mortgage. As these new tools emerge, they will become as essential to our digital lives as browsers and email clients have become to the Web today. Interoperable solutions are paramount for a vibrant digital marketplace where consumers are free to choose the vendors and use the digital credentials they prefer.  
+ToIP aims to define a complete architecture for Internet-scale digital trust that combines cryptographic trust at the machine layer with human trust at the business, legal, and social layers. The Foundation’s mission is not to develop all of the standards or components included in the ToIP stack. It is to specify how these elements can be combined to fulfill the requirements of all four layers, bringing both governance and technology together.
 
 ## Purpose
 This repo manages the development and maintenance of the subject ToIP deliverable. It contains the tools necessary to generate multiple renderings formats.
